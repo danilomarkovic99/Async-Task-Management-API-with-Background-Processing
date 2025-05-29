@@ -37,11 +37,11 @@ This project provides a fully async task management API built with FastAPI, SQLA
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/danilomarkovic99/Async-Task-Management-API-with-Background-Processing
-    cd async-task-api
+    cd Async-Task-Management-API-with-Background-Processing
     ```
 
 2. **(Optional) Edit the environment file:**
-    Copy `.env.example` to `.env` and adjust settings if needed.
+    `.env` adjust settings if needed.
 
 3. **Start services:**
     ```sh
